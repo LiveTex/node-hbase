@@ -25,5 +25,8 @@
     "type": "git",
     "url": "https://github.com/wdavidw/node-hbase.git"
   },
+  "publishConfig": {
+    "registry": "http://sonatype-nexus.livetex.ru/nexus/content/repositories/livetex-npm-new/"
+  },
   "homepage": "https://github.com/wdavidw/node-hbase"
 }
